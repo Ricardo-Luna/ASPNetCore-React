@@ -1,0 +1,12 @@
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
