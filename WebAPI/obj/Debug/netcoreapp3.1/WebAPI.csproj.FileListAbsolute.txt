@@ -63,3 +63,8 @@ C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\W
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
