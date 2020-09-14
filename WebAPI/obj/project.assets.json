@@ -5321,27 +5321,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricardo.luna.ZAPOTLAN\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\adrian.castillo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\adrian.castillo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ricardo.luna.ZAPOTLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\adrian.castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5353,8 +5346,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }
@@ -5391,7 +5384,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

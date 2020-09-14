@@ -1,5 +1,6 @@
 using Dominio;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using Persistencia;
 using System.Collections.Generic;
 using System.Threading;

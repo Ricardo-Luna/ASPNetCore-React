@@ -12,3 +12,17 @@ C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\A
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
 C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csprojAssemblyReference.cache
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
