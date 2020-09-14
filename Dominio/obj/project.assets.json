@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "c:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\ricardo.luna.ZAPOTLAN\\Documents\\Development\\Platzi-udemy\\ProyectoCore\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -864,7 +864,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
