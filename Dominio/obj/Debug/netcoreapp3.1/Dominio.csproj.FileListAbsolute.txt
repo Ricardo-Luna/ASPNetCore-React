@@ -1,0 +1,9 @@
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ricardo.luna.ZAPOTLAN\Documents\Development\Platzi-udemy\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
