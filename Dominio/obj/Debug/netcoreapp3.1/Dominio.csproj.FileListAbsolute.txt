@@ -16,3 +16,12 @@ C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Dominio\obj\D
 C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\adrian.castillo\source\repos\RicardoLuna\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

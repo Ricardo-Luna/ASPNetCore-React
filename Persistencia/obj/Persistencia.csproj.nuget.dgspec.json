@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\adrian.castillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\ricardo.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\adrian.castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ricardo.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -61,22 +65,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\adrian.castillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ricardo.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\adrian.castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ricardo.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -88,8 +96,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\adrian.castillo\\source\\repos\\RicardoLuna\\ASPNetCore-React\\Dominio\\Dominio.csproj"
+              "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -134,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
