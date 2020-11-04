@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\Seguridad.csproj",
+        "projectName": "Seguridad",
+        "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\ricardo.luna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -264,6 +264,82 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\ricardo.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricardo.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Aplicacion\\Aplicacion.csproj"
+              },
+              "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "C:\\Users\\ricardo.luna\\Documents\\Development\\dotNetCore\\ASPNetCore-React\\Seguridad\\Seguridad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"

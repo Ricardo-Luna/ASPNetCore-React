@@ -1,0 +1,16 @@
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csprojAssemblyReference.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+C:\Users\ricardo.luna\Documents\Development\dotNetCore\ASPNetCore-React\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
