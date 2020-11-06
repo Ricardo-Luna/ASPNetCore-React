@@ -3,6 +3,7 @@ using Dominio;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -21,7 +22,7 @@ namespace WebAPI.Controllers
 		//********************GET***************************************
 		[HttpGet]
 		
-		public async Task<ActionResult<List<Curso>>> Get()
+		public async Task<ActionResult<List<CursoDto>>> Get()
 		{
 			return await Mediator.Send(new Consulta.ListaCursos());
 		}
@@ -29,7 +30,7 @@ namespace WebAPI.Controllers
 		//http:localhost:5000/api/Cursos/1
 		// ********************GET***************************************
 		[HttpGet("{id}")]
-		public async Task<ActionResult<Curso>> Detalle(int id)
+		public async Task<ActionResult<CursoDto>> Detalle(Guid id)
 		{
 			return await Mediator.Send(new ConsultaId.CursoUnico { Id = id });
 		}
@@ -41,14 +42,14 @@ namespace WebAPI.Controllers
 		}
 		// //********************PUT***************************************
 		[HttpPut("{id}")]
-		public async Task<ActionResult<Unit>> Editar(int id, Editar.Ejecuta data)
+		public async Task<ActionResult<Unit>> Editar(Guid id, Editar.Ejecuta data)
 		{
 			data.CursoId = id;
 			return await Mediator.Send(data);
 		}
 		// //********************DELETE************************************
 		[HttpDelete("{id}")]
-		public async Task<ActionResult<Unit>> Eliminar(int id)
+		public async Task<ActionResult<Unit>> Eliminar(Guid id)
 		{
 			return await Mediator.Send(new Eliminar.Ejecutar { Id = id });
 		}
